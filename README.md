@@ -157,8 +157,7 @@ sh ss.sh
 ![](https://user-images.githubusercontent.com/84239400/119024332-7b4deb80-b992-11eb-8616-d63fd5aca694.png)
 
 ## 更多VPN搭建教程
-- [图文教程搭建一个vpn](https://github.com/yukaiji/buildVpn)
-- [快速搭建一个自己的VPN](https://github.com/clown-coding/vpn)
+- [vpn搭建教程](https://www.google.com/search?q=vpn%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B&oq=vpn%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B&aqs=chrome.0.69i59j35i39j0l3j69i60j69i65j69i60.2589j0j7&sourceid=chrome&ie=UTF-8)
 
 
 

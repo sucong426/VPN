@@ -6,9 +6,9 @@
 
 ## 优惠购买云服务器vultr
 
-在搭建之前需要一台境外的云服务器，而 [vultr](https://www.vultr.com/?ref=8944093-8H) 服务商比较稳定，安全，相当于境内的阿里云。
+在搭建之前需要一台境外的云服务器，而 [vultr](https://www.vultr.com/?ref=8872889) 服务商比较稳定，安全，相当于境内的阿里云。
 
-值得说的一点是， [vultr](https://www.vultr.com/?ref=8944093-8H) 给新用户的福利相当给力，充值 10 美元就可以获取 100 美元，你可以点击 [vultr 专属赠送新用户 100 美元](https://www.vultr.com/?ref=8944093-8H) 进去抢先注册。
+值得说的一点是， [vultr](https://www.vultr.com/?ref=8872889) 给新用户的福利相当给力，充值 10 美元就可以获取 100 美元，你可以点击 [vultr 专属赠送新用户 100 美元](https://www.vultr.com/?ref=8872889) 进去抢先注册。
 
 右上角有注册按钮，你也可以切换成中文界面：
 
@@ -20,7 +20,7 @@
 
 ![](https://user-images.githubusercontent.com/84239400/119020042-4ee3a080-b98d-11eb-8341-bfc30f4b103c.png)
 
-进去之后你可以看到这个页面，说明你已经通过 [vultr 专属优惠链接](https://www.vultr.com/?ref=8872890-6G) 获得了 100 美元赠送的资格：
+进去之后你可以看到这个页面，说明你已经通过 [vultr 专属优惠链接](https://www.vultr.com/?ref=8872889) 获得了 100 美元赠送的资格：
 
 ![](https://user-images.githubusercontent.com/84239400/119020173-733f7d00-b98d-11eb-8ecc-a1afeb556fe6.png)
 

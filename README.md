@@ -159,6 +159,7 @@ sh ss.sh
 ## 更多VPN搭建教程
 - [vpn搭建教程](https://www.google.com/search?q=vpn%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B&oq=vpn%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B&aqs=chrome.0.69i59j35i39j0l3j69i60j69i65j69i60.2589j0j7&sourceid=chrome&ie=UTF-8)
 
-
+## 赞赏
+喜欢就给我个star或者fork一下吧❤️，谢谢！
 
 
